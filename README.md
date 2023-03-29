@@ -28,7 +28,7 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
 
 
-alors pour comprendre 
+# alors pour comprendre 
 
 1. dans prisma tu crée ton model et lance la commande pour generer le type et la bdd
 2. dans server/api/root tu crée une route avec createTRPCRouter
